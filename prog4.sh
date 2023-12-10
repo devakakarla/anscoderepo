@@ -2,6 +2,7 @@
 #perform aruthematic operations using expr keyword
 #obtain operands from cmd line
 #
+echo "i am adding new line here 123"
 echo "the given operands are : $@"
 #result=`expr $1 + $2`
 echo "addition of $1 and $2 is: $result "

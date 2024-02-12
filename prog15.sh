@@ -30,5 +30,6 @@ fi
 if [ $num1 -ne $num2 ]
 then
   echo "both are not equal"
+  echo "this is modified file"
 fi
 #end of the script
